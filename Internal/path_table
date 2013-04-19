@@ -1,0 +1,158 @@
+######################################################
+# Please do not use key words listed here
+#	axes
+# 	err, error
+#	location
+#	name
+#	ndim
+#	size
+#	shape
+# 	title
+#	units
+#	var
+#	norm_value
+#	norm_attr
+######################################################
+
+experiment_title 		 = $entry/experiment/title
+user_name				 = $entry/user/name
+user_email				 = $entry/user/email
+user_phone				 = $entry/user/phone
+suid					 = $entry/data/sics_suid
+flip_on                  = $entry/instrument/polarizer_flipper/flip_on
+chopper3_distance        = $entry/instrument/parameters/chopper3_distance
+slit1_distance           = $entry/instrument/parameters/slit1_distance
+slit3_distance           = $entry/instrument/parameters/slit3_distance
+chopper4_base            = $entry/instrument/parameters/chopper4_base
+mode                     = $entry/monitor/mode
+key                      = $entry/instrument/status/key
+description              = $entry/sample/description
+run_number               = $entry/instrument/run_number
+bm1_counts               = $entry/monitor/bm1_counts
+ch3phase                 = $entry/instrument/disk_chopper/ch3phase
+program_name             = $entry/program_name
+left                     = $entry/instrument/slits/third/horizontal/left
+ch4phase                 = $entry/instrument/disk_chopper/ch4phase
+slit4_distance           = $entry/instrument/parameters/slit4_distance
+guide_element            = $entry/instrument/parameters/guide_element
+chopper2_distance        = $entry/instrument/parameters/chopper2_distance
+chopper1_distance        = $entry/instrument/parameters/chopper1_distance
+bm1_event_rate           = $entry/monitor/bm1_event_rate
+file_name                = $entry/experiment/file_name
+sics_release             = $entry/sics_release
+flip_current             = $entry/instrument/polarizer_flipper/flip_current
+st4vt                    = $entry/instrument/slits/fourth/vertical/st4vt
+bm2_counts               = $entry/monitor/bm2_counts
+save_count               = $entry/experiment/save_count
+detector_base            = $entry/instrument/parameters/detector_base
+omega                    = $entry/instrument/parameters/omega
+cns_flow_temp            = $entry/instrument/source/cns_flow_temp
+sphi                     = $entry/sample/sphi
+chopper3_phase_offset    = $entry/instrument/parameters/chopper3_phase_offset
+max_binrate              = $entry/instrument/detector/max_binrate
+relay                    = $entry/instrument/status/relay
+guide_current            = $entry/instrument/polarizer_flipper/guide_current
+sample_base              = $entry/instrument/parameters/sample_base
+guide1_distance          = $entry/instrument/parameters/guide1_distance
+cns_inlet_temp           = $entry/instrument/source/cns_inlet_temp
+DataType                 = $entry/data/DataType
+anal_distance            = $entry/instrument/polarizer/anal_distance
+time_stamp               = $entry/time_stamp
+ch3speed                 = $entry/instrument/disk_chopper/ch3speed
+run_mode                 = $entry/run_mode
+short_title              = $entry/sample/short_title
+translate_x              = $entry/sample/translate_x
+guide1_base              = $entry/instrument/parameters/guide1_base
+sth                      = $entry/sample/sth
+z_translation            = $entry/instrument/polarizer/z_translation
+start                    = $entry/experiment/start
+dummy_motor              = $entry/sample/dummy_motor
+sics_suid                = $entry/data/sics_suid
+access                   = $entry/instrument/status/access
+detector_distance        = $entry/instrument/parameters/detector_distance
+chopper2_phase_offset    = $entry/instrument/parameters/chopper2_phase_offset
+flip_frequency           = $entry/instrument/polarizer_flipper/flip_frequency
+chopper1_phase_offset    = $entry/instrument/parameters/chopper1_phase_offset
+slit2_distance           = $entry/instrument/parameters/slit2_distance
+chopper4_phase_offset    = $entry/instrument/parameters/chopper4_phase_offset
+ch4speed                 = $entry/instrument/disk_chopper/ch4speed
+slave                    = $entry/instrument/parameters/slave
+anal_base                = $entry/instrument/polarizer/anal_base
+lower                    = $entry/instrument/slits/third/vertical/lower
+start_time               = $entry/instrument/detector/start_time
+beam_attenuator          = $entry/instrument/attenuator/beam_attenuator
+hmm                      = $entry/instrument/detector/hmm
+file_status              = $entry/experiment/file_status
+autosaveIndex            = $entry/instrument/autosaveIndex
+ch2phase                 = $entry/instrument/disk_chopper/ch2phase
+secondary                = $entry/instrument/status/secondary
+bm2_status               = $entry/monitor/bm2_status
+chopper2_base            = $entry/instrument/parameters/chopper2_base
+cg123He_temp             = $entry/instrument/source/cg123He_temp
+ready                    = $entry/instrument/status/ready
+tertiary                 = $entry/instrument/status/tertiary
+dc                       = $entry/instrument/status/dc
+slit4_base               = $entry/instrument/parameters/slit4_base
+title                    = $entry/experiment/title
+total_counts             = $entry/instrument/detector/total_counts
+active_height            = $entry/instrument/detector/active_height
+flip_voltage             = $entry/instrument/polarizer_flipper/flip_voltage
+motioncontrol            = $entry/instrument/status/motioncontrol
+cns_outlet_temp          = $entry/instrument/source/cns_outlet_temp
+thickness                = $entry/instrument/polarizer_flipper/thickness
+gap                      = $entry/instrument/slits/third/vertical/gap
+ch1phase                 = $entry/instrument/disk_chopper/ch1phase
+data                     = $entry/monitor/data
+chopper3_base            = $entry/instrument/parameters/chopper3_base
+time                     = $entry/monitor/time
+right                    = $entry/instrument/slits/third/horizontal/right
+daq_dirname              = $entry/instrument/detector/daq_dirname
+file_set                 = $entry/experiment/file_set
+bm2_time                 = $entry/monitor/bm2_time
+operate                  = $entry/instrument/status/operate
+stop_time                = $entry/instrument/detector/stop_time
+longitudinal_translation = $entry/instrument/detector/longitudinal_translation
+master                   = $entry/instrument/parameters/master
+chopper1_base            = $entry/instrument/parameters/chopper1_base
+ch1speed                 = $entry/instrument/disk_chopper/ch1speed
+total_maprate            = $entry/instrument/detector/total_maprate
+bm2_event_rate           = $entry/monitor/bm2_event_rate
+phone                    = $entry/user/phone
+power                    = $entry/instrument/source/power
+guide2_distance          = $entry/instrument/parameters/guide2_distance
+upper                    = $entry/instrument/slits/third/vertical/upper
+comp_current             = $entry/instrument/polarizer_flipper/comp_current
+end_time                 = $entry/end_time
+slit1_base               = $entry/instrument/parameters/slit1_base
+shade_vertical_translation = $entry/instrument/detector/shade_vertical_translation
+x_pixel_offset           = $entry/instrument/detector/x_pixel_offset
+name                     = $entry/user/name
+exit                     = $entry/instrument/status/exit
+fault                    = $entry/instrument/status/fault
+translation              = $entry/instrument/collimator/translation
+rotation                 = $entry/instrument/polarizer/rotation
+x_bin                    = $entry/instrument/detector/x_bin
+y_pixel_offset           = $entry/instrument/detector/y_pixel_offset
+preset                   = $entry/monitor/preset
+y_bin                    = $entry/instrument/detector/y_bin
+bm1_time                 = $entry/monitor/bm1_time
+translate_z              = $entry/sample/translate_z
+twotheta                 = $entry/instrument/parameters/twotheta
+time_of_flight           = $entry/instrument/detector/time_of_flight
+guide2_base              = $entry/instrument/parameters/guide2_base
+email                    = $entry/user/email
+ch2speed                 = $entry/instrument/disk_chopper/ch2speed
+slit3_base               = $entry/instrument/parameters/slit3_base
+simulation               = $entry/instrument/status/simulation
+vertical_translation     = $entry/instrument/detector/vertical_translation
+sample_distance          = $entry/instrument/parameters/sample_distance
+active_width             = $entry/instrument/detector/active_width
+chopper4_distance        = $entry/instrument/parameters/chopper4_distance
+bm1_status               = $entry/monitor/bm1_status
+slit2_base               = $entry/instrument/parameters/slit2_base
+currpoint                = $entry/experiment/currpoint
+variance                 = $entry/data/variance
+st3vt                    = $entry/instrument/slits/third/vertical/st3vt
+offset                   = $entry/instrument/slits/third/vertical/offset
+action                   = $entry/instrument/scbat/action
+trip                     = $entry/instrument/status/trip
